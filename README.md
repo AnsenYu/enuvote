@@ -1,5 +1,7 @@
 This is a script to see the ENU voting insight of a specific bp.
 
+To see the oneline tools: [http://enuvote.com/test.php?prod=ansenironman](http://enuvote.com/test.php?prod=ansenironman)
+
 usage: ./count_vote.sh bpaccountname
 
 note: It is recommanded to change the rpc api address to a local enu full node, since the
