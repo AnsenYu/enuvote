@@ -4,6 +4,7 @@ usage: ./count_vote.sh bpaccountname
 
 note: It is recommanded to change the rpc api address to a local enu full node, since the
 scripts requires lots of rpc queries and it takes long time to use the official rpc api.
+Also, you need to change the path of the enucli bin.
 
 ```
 ubuntu@VM-0-11-ubuntu:~$ ./count_vote.sh ansenironman
